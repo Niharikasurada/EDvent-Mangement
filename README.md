@@ -1,1 +1,1 @@
-# EDvent-Mangement
+# Event ticket booking
